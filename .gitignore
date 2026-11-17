@@ -1,0 +1,12 @@
+# Release artifacts
+/dist/
+
+# .NET build artifacts
+**/bin/
+**/obj/
+
+# WiX build artifacts
+*.wixpdb
+
+# Local test clone
+/pwwd/
